@@ -19,10 +19,10 @@ augment:
   flip: True
   rotate: 10
   scale: [ 0.8, 1.2 ]
-  translate: [ 0.1, 0.1 ]
-  brightness: [ 0.8, 1.2 ]
-  contrast: [ 0.8, 1.2 ]
-  saturation: [ 0.8, 1.2 ]
-  blur: 0.1
-  noise: 0.1
-  cutout: 0.5
+#  translate: [ 0.1, 0.1 ]
+#  brightness: [ 0.8, 1.2 ]
+#  contrast: [ 0.8, 1.2 ]
+#  saturation: [ 0.8, 1.2 ]
+#  blur: 0.1
+#  noise: 0.1
+#  cutout: 0.5
