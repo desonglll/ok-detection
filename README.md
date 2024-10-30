@@ -8,6 +8,7 @@ poetry install
 ```
 
 ## Run
+
 ```shell
 python main.py
 ```
@@ -17,3 +18,4 @@ python main.py
 ```shell
 yolo predict model=./runs/detect/train/weights/best.pt source=0 save=True show=True
 ```
+
